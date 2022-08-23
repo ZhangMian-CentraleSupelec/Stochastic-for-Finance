@@ -8,8 +8,6 @@ The volatility surface of a call option
 
 ![image](https://user-images.githubusercontent.com/110284601/186156541-15db15f3-20b9-49f8-a29c-a48043d66975.png)
 
-The volatility surface of a call option
-
 ## Summary
 
 - This project is based on the course of 3A CentraleSupélec - Stochastic in Finance. 
